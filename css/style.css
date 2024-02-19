@@ -134,6 +134,7 @@ ul {
   padding: 10px;
   font-size: 20px;
   overflow: hidden;
+  
 }
 
 .card:hover {
@@ -233,6 +234,13 @@ section h2 {
     margin: 50px 0 30px;
    
   }
+  
+.card-body {
+  padding: 10px;
+  font-size: 15px;
+  overflow: hidden;
+  
+}
     
 }
 .details-top img {
